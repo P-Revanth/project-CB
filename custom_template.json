@@ -3,6 +3,7 @@
     "source": "https://github.com/P-Revanth/project-CB/blob/main/custom_template.json",
     "prompt_input": "{context}\n{response}",
     "prompt_no_input": "",
+    "chat_template": "",
     "instruction_separator": "",
     "response_separator": ""
 }
