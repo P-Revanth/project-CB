@@ -1,0 +1,7 @@
+{
+    "description": "Template for context and response.",
+    "source": "",
+    "prompt_input": "{context}\n{response}",
+    "instruction_separator": "",
+    "response_separator": ""
+}
